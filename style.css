@@ -127,7 +127,6 @@ body {
 }
 
 .banner {
-    background-color: rgb(160, 100, 26);
     background-image: url(./img/banner.png);
     background-repeat: no-repeat;
     background-size: cover;
